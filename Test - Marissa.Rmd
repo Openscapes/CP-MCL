@@ -10,3 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Does this do anything?? 
+
+```{r}
+mean(4, 5, 6, 8, 10)
+```
+
+## Clams are the best! 
